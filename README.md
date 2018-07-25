@@ -19,7 +19,7 @@ Bastien Willet
 
 ## Détail des liaisons entre tables
 
-Voir fichier table_links.pdf
+Voir fichier table_links.jpg
 
 
 ## Détail des migrations (voir dossier db/migrate)
