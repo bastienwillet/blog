@@ -7,7 +7,7 @@ Bastien Willet
 
 ## Comment lancer le programme ?
 
-1. Positionner le terminal à la racine du dossier moocademy
+1. Positionner le terminal à la racine du dossier blog
 2. Lancer $ bundle install
 3. Lancer $ rails db:migrate
 4. Lancer $ rails db:seed
